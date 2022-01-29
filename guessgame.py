@@ -14,3 +14,5 @@ if(secret_number == guess):
     print("You Won")
 else:
     print("You lose")
+
+print("END OF GAME")
